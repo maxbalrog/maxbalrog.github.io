@@ -10,11 +10,15 @@ description: I'm Maksim Valialshchikov and I work in the area of Computational P
 
 I'm Maksim Valialshchikov, a __Ph.D. student__ at Skolkovo Institute of Science and Technology supervised by Sergey Rykovanov. I work in the field of Computational Physics and Neural Networks in Physics.
 
+...
+
+...
+
 ## <span style="color:darkblue">News </span>
 
 __2022__
 
-* __January-April__ Internship at Helmholtz Institute Jena, Jena, Germany with DAAD scholarship.
+* __January-April__ Internship at Helmholtz Institute Jena, Jena, Germany in a group of Prof. Dr. Matt Zepf. Supported with DAAD scholarship.
 
 
 __2021__
