@@ -4,8 +4,8 @@ description: I'm Maksim Valialshchikov and I work in the area of Computational P
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
-<!--![me](./images/people/me.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="me"}-->
-![mountains](./images/people/me.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="me"}
+<!--![me](./images/people/me.jpg){: style="float: right; margin: 0px 20px; width: 360px;" name="me"}-->
+![me](./images/people/me.jpg){: style="float: right; margin: 0px 20px; width: 360px;" name="me"}
 
 
 I'm Maksim Valialshchikov, a __Ph.D. student__ at Skolkovo Institute of Science and Technology supervised by Sergey Rykovanov. I work in the field of Computational Physics and Neural Networks in Physics.
