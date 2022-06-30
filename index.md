@@ -22,7 +22,7 @@ I'm Maksim Valialshchikov, a __Ph.D. student__ at Skolkovo Institute of Science 
 
 __2022__
 
-* __January-April__ Internship at Helmholtz Institute Jena, Jena, Germany in a group of Prof. Dr. Matt Zepf. Supported with DAAD scholarship.
+* __January-April__ Internship at Helmholtz Institute Jena, Germany in a research group of Prof. Dr. Matt Zepf. Supported with DAAD scholarship.
 
 
 __2021__
