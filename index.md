@@ -32,6 +32,6 @@ __2021__
 * __April__ <span style="color:#888"><u>Papers:</u></span> [Narrow Bandwidth Gamma Comb from Nonlinear Compton Scattering Using the
 Polarization Gating Technique](https://arxiv.org/abs/2011.12931) accepted to __Physical Review Letters__.
 
-* __April__ [On the Usage of Tapered Undulators in the Measurement of Interference in the Intensity-Dependent Electron Mass Shift](https://www.mdpi.com/2073-4352/11/5/486) accepted to __Crystals__.
+* __April__ <span style="color:#888"><u>Papers:</u></span> [On the Usage of Tapered Undulators in the Measurement of Interference in the Intensity-Dependent Electron Mass Shift](https://www.mdpi.com/2073-4352/11/5/486) accepted to __Crystals__.
 
 * __January__ <span style="color:#888"><u>Short talk:</u></span> [The Schwinger Effect and Strong-Field Physics](https://www2.yukawa.kyoto-u.ac.jp/~schwinger-effect/Home/)
