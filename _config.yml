@@ -31,7 +31,7 @@ author:
   email            : #"none@example.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Valialshchikov%2C+M" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=sFDKc9AAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-5442-7331"
