@@ -8,7 +8,7 @@ journal: 'Physical Review Letters'
 volume: 126.19
 page: 194801
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.194801'
-authors: '<b>Valialshchikov, M. A.<b>, V. Yu Kharin, and S. G. Rykovanov.'
+authors: '<b>Valialshchikov, M. A.</b>, V. Yu Kharin, and S. G. Rykovanov.'
 doi: '10.1103/PhysRevLett.126.194801'
 ---
 
