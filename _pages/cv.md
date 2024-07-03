@@ -11,35 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Friedrich-Schiller University, Jena, Germany (expected)
+* M.S. in Information Science and Technology, Skolkovo Institute of Science and Technology, Moscow, Russia, 2021
+* B.S. in Applied Physics and Math, MEPHI, Moscow, Russia, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2022 — present : PhD ...
+  * Helmholtz Institute Jena, Germany
+  * Project: Bayesian optimization of quantum vacuum signals
+  * Project: Neural network time series forecasting for laser jitter compensation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2022 — October 2022 : Research engineer
+  * Skoltech, Moscow
+  * Project: Work on transfer of CPU AutoML library to GPU with RAPIDS: cupy, cudf, daskcudf
+  * Project: Numerical investigation of laser-plasma physics problems
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2022 — April 2022: Internship
+  * Helmholtz Institute Jena, Germany
+  * Project: Numerical and analytical optimization of nonlinear Compton scattering source
+  * Project: R&D in application of neural networks to laser-plasma physics
+
+* August 2021 — October 2021: Research engineer
+  * Skoltech, Moscow
+  * Project: numerical optimization of nonlinear Compton scattering source
+  * Project: R&D for neural networks in physics
+
+* June 2020 — December 2020 : ML developer
+  * Ashmanov Neural Networks, Moscow
+  * Project “3D human pose estimation from videos”: R&D
+  * Project “Keyword Spotting” for bank mobile assistant: R&D, build end-to-end machine learning pipeline
+
+* 2019 - 2021: MSc student
+  * Skoltech, Moscow
+  * Project: Create code to simulate nonlinear Compton scattering, investigate several problem settings with it
+  * Supervisor: Prof. Dr. Sergey Rykovanov
+
+* July 2018 - August 2019: Research Assistant
+  * Kurchatov Institute, Moscow
+  * Project: Investigate the interaction of swift heavy ions with solids via Monte-Carlo and molecular dynamics codes
+  * Supervisor: Dr. Alexander Volkov
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Classical electrodynamics, quantum field theory, quantum vacuum
+* Python
+  * Science related: numpy, scipy
+  * ML related: pytorch, tensorflow, scikit-learn, optuna
+  * High-performance related: cupy, cudf, cuml, numba
+  * Bayesian related: Ax, PyMC
+* Computing on clusters: bash, submitit
 
 Publications
 ======
@@ -59,6 +80,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
