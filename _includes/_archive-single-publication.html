@@ -29,7 +29,6 @@
           alt="">
       </div>
     {% endif %}
-
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.doi %}
           <b>{{title}}</b> <a href="{{post.doi}}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -37,10 +36,8 @@
           <b>{{title}}</b>
       {% endif %}
     </h2>
-    
     {% if post.venue == "paper" %}
         <p class="archive__item-excerpt" itemprop="description">{{post.authors}}, {{post.journal}} <b>{{post.volume}}</b> {{post.page}}, {{post.year}}</p>
     {% endif %}
-    
   </article>
 </div>
