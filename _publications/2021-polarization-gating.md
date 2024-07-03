@@ -2,11 +2,13 @@
 title: "Narrow bandwidth gamma comb from nonlinear Compton scattering using the polarization gating technique"
 collection: publications
 permalink: /publication/2021-polarization-gating
-excerpt: 'In this paper we suggest to use polarization gating to compensate ponderomotive broadening and produce narrow harmonics in the Compton spectrum.'
-date: 2021-01-01
-venue: 'Physical Review Letters'
+venue: 'paper'
+year: 2021
+journal: 'Physical Review Letters'
+volume: 126.19
+page: 194801
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.194801'
-citation: '<b> Valialshchikov, M. A. <b>, V. Yu Kharin, and S. G. Rykovanov. Physical Review Letters 126.19 (2021): 194801.'
+authors: '<b>Valialshchikov, M. A.<b>, V. Yu Kharin, and S. G. Rykovanov.'
 doi: '10.1103/PhysRevLett.126.194801'
 ---
 
