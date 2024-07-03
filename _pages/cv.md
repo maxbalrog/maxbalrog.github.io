@@ -61,6 +61,7 @@ Skills
   * High-performance related: cupy, cudf, cuml, numba
   * Bayesian related: Ax, PyMC
 * Computing on clusters: bash, submitit
+* Basics of C
 
 Publications
 ======
@@ -79,4 +80,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Misc
+======
+* Russian ML and Big Data Championship 2022. Track “Linking aerial images to the terrain” (10th place, prizewinner)
+* Researcher, RSF 2021 grant “Conducting fundamental scientific research and exploratory scientific research by small individual scientific groups”
+* DAAD Young Talents Programme Linie A 2021
+* Skoltech Student Award - Best Research 2021
+* Skoltech President Scholarship 2021
   
