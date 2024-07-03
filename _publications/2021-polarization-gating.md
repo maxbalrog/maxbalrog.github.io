@@ -1,10 +1,10 @@
 ---
 title: "Narrow bandwidth gamma comb from nonlinear Compton scattering using the polarization gating technique"
 collection: publications
-permalink: /publication/2021-polarization-gating
+permalink: ''
 venue: 'paper'
 year: 2021
-journal: 'Physical Review Letters'
+journal: 'Phys. Rev. Lett.'
 volume: 126.19
 page: 194801
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.194801'
