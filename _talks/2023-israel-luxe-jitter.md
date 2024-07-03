@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-israel-luxe-jitter
 venue: "Weizmann Institute of Science"
-date: 2023-09-01
+date: 2023-09-04
 location: "Rehovot, Israel"
 ---
 
