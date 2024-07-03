@@ -87,5 +87,4 @@ Misc
 * Researcher, RSF 2021 grant “Conducting fundamental scientific research and exploratory scientific research by small individual scientific groups”
 * DAAD Young Talents Programme Linie A 2021
 * Skoltech Student Award - Best Research 2021
-* Skoltech President Scholarship 2021.
-  
+* Skoltech President Scholarship 2021
