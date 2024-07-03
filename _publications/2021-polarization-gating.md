@@ -6,7 +6,8 @@ excerpt: 'In this paper we suggest to use polarization gating to compensate pond
 date: 2021-01-01
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.194801'
-citation: 'Valialshchikov, M. A., V. Yu Kharin, and S. G. Rykovanov. "Narrow bandwidth gamma comb from nonlinear Compton scattering using the polarization gating technique." Physical Review Letters 126.19 (2021): 194801.'
+citation: '<b> Valialshchikov, M. A. <b>, V. Yu Kharin, and S. G. Rykovanov. Physical Review Letters 126.19 (2021): 194801.'
+doi: '10.1103/PhysRevLett.126.194801'
 ---
 
 Abstract:
