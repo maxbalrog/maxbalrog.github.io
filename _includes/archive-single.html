@@ -40,8 +40,8 @@
 
     {% if post.collection == 'teaching' %}
       <p class="archive__item-excerpt" itemprop="description"> {{ post.type }}, <i>{{ post.venue }}</i> ({{ post.year}}) </p>
-      {% if post.description %}
-        <p class="archive__item-excerpt" itemprop="description"> {{post.description}} </p>
+      {% if post.topics %}
+        <p class="archive__item-excerpt" itemprop="description"> <b>Topics:</b> {{post.topics}} </p>
       {% endif %}
     {% endif %}
 
