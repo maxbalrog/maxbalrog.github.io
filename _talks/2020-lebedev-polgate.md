@@ -4,7 +4,8 @@ collection: talks
 type: "Poster"
 permalink: /talks/2020-lebedev-polgate
 venue: "The P.N. Lebedev Physical Institute"
-date: 2020-11-01
+year: 2020
+month: November
 location: "Moscow"
 ---
 
