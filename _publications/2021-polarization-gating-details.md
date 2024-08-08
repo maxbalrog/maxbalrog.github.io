@@ -2,11 +2,14 @@
 title: "Polarisation gating technique in nonlinear Compton scattering: effect of radiation friction and electron beam nonideality"
 collection: publications
 permalink: /publication/2021-polarization-gating-details
-excerpt: 'This paper studies more realistic conditions (radiation friction, nonideal electron beams) to determine whether polarization gating effect remains visible in the Compton spectrum.'
-date: 2021-08-01
-venue: 'Quantum Electronics'
+venue: 'paper'
+year: 2021
+journal: 'Quantum Electronics'
+volume: 51.9
+page: 812
 paperurl: 'https://iopscience.iop.org/article/10.1070/QEL17616'
-citation: 'Valialshchikov, M. A., V. Yu Kharin, and S. G. Rykovanov. "Polarisation gating technique in nonlinear Compton scattering: effect of radiation friction and electron beam nonideality." Quantum Electronics 51.9 (2021): 812.'
+authors: '<b>M. A. Valialshchikov</b>, V. Yu. Kharin, and S. G. Rykovanov'
+doi: 'https://doi.org/10.1070/QEL17616'
 ---
 
 Abstract:
