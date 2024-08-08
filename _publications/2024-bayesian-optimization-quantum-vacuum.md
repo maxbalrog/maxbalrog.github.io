@@ -3,10 +3,13 @@ title: "Numerical optimization of quantum vacuum signals"
 collection: publications
 permalink: /publication/2024-bayesian-optimization-quantum-vacuum
 excerpt: 'In this paper we show that spectral chirp in laser pulses might be used to increase the brightness of main spectral peak.'
-date: 2024-01-01
-venue: 'arXiv'
+venue: preprint
+year: 2024
+journal: 'arXiv'
+arxiv: 2405.03317
 paperurl: 'https://arxiv.org/abs/2405.03317'
-citation: 'Valialshchikov, M., Karbstein, F., Seipt, D. and Zepf, M., 2024. Numerical optimization of quantum vacuum signals. arXiv preprint arXiv:2405.03317.'
+authors: '<b>M. Valialshchikov</b>, F. Karbstein, D. Seipt and M. Zepf'
+doi: 'https://arxiv.org/abs/2405.03317'
 ---
 
 Abstract:

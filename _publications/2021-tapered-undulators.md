@@ -2,11 +2,14 @@
 title: "On the usage of tapered undulators in the measurement of interference in the intensity-dependent electron mass shift"
 collection: publications
 permalink: /publication/2021-tapered-undulators
-excerpt: 'In this paper we propose to use tapered undulators to mimic Thomson scattering and measure the intensity-dependent electron mass shift experimentally.'
-date: 2021-09-01
-venue: 'Crystals'
-paperurl: 'https://www.mdpi.com/2073-4352/11/5/486'
-citation: 'M. A. Valialshchikov, M. Ruijter, and S. G. Rykovanov. "On the usage of tapered undulators in the measurement of interference in the intensity-dependent electron mass shift." Crystals 11.5 (2021): 486.'
+venue: paper
+year: 2021
+journal: 'Crystals'
+volume: 11.5
+page: 486
+paperurl: 'https://doi.org/10.3390/cryst11050486'
+authors: '<b>M. A. Valialshchikov</b>, M. Ruiter, and S. G. Rykovanov'
+doi: 'https://doi.org/10.3390/cryst11050486'
 ---
 
 Abstract:

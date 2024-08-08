@@ -2,11 +2,14 @@
 title: "Towards high photon density for Compton scattering by spectral chirp"
 collection: publications
 permalink: /publication/2022-spectral-chirp
-excerpt: 'In this paper we show that spectral chirp in laser pulses might be used to increase the brightness of main spectral peak.'
-date: 2022-01-01
-venue: 'Physical Review A'
+venue: paper
+year: 2022
+journal: 'Physical Review A'
+volume: 106.3
+page: L031501
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.L031501'
-citation: 'Valialshchikov, M.A., Seipt, D., Kharin, V.Y. and Rykovanov, S.G., 2022. Towards high photon density for Compton scattering by spectral chirp. Physical Review A, 106(3), p.L031501.'
+authors: '<b>M. A. Valialshchikov</b>, V. Yu. Kharin, and S. G. Rykovanov'
+doi: 'https://doi.org/10.1103/PhysRevA.106.L031501'
 ---
 
 Abstract:
