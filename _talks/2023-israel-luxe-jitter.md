@@ -1,10 +1,11 @@
 ---
-title: "Talk on neural network time series forecast for laser Poynting jitter"
+title: "Neural network time series forecasting for laser Poynting jitter"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-israel-luxe-jitter
 venue: "Weizmann Institute of Science"
-date: 2023-09-04
+year: 2023
+month: September
 location: "Rehovot, Israel"
 ---
 

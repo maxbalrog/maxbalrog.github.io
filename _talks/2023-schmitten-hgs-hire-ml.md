@@ -1,10 +1,11 @@
 ---
 title: "Power week on Machine Learning"
 collection: talks
-type: "Power week"
+type: "Workshop"
 permalink: /talks/2023-schmitten-hgs-hire-ml
 venue: "HGS-HIRE"
-date: 2023-07-14
+year: 2023
+month: July
 location: "Schmitten, Germany"
 ---
 

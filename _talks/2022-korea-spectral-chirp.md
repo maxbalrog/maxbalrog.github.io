@@ -1,10 +1,11 @@
 ---
-title: "Talk on catastrophe theory analysis of spectrally chirped lasers in nonlinear Compton scattering"
+title: "Catastrophe theory analysis of spectrally chirped lasers in nonlinear Compton scattering"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-korea-spectral-chirp
 venue: "ICUIL2022"
-date: 2022-09-18
+year: 2022
+month: September
 location: "Jeju, South Korea"
 ---
 

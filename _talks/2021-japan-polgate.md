@@ -1,10 +1,11 @@
 ---
-title: "Talk on polarization gating in nonlinear Compton scattering"
+title: "Polarization gating in nonlinear Compton scattering"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-japan-polgate
 venue: "Kyoto University"
-date: 2021-01-18
+year: 2021
+month: January
 location: "Kyoto, Japan"
 ---
 

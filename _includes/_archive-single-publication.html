@@ -39,7 +39,7 @@
     {% if post.venue == "paper" %}
         <p class="archive__item-excerpt" itemprop="description">{{post.authors}}. {{post.journal}} <b>{{post.volume}}</b> {{post.page}} ({{post.year}})</p>
     {% else if post.venue == "preprint" %}
-        <p class="archive__item-excerpt" itemprop="description">{{post.authors}}. {{post.journal}}:{{post.arxiv}} ({{post.month}} {{post.year}})</p>
+        <p class="archive__item-excerpt" itemprop="description">{{post.authors}}. {{post.journal}}:{{post.arxiv}} ({{post.year}})</p>
     {% endif %}
   </article>
 </div>
