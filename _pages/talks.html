@@ -1,6 +1,6 @@
 ---
 layout: archive-no-title
-title: "Talks and Presentations"
+title: "Talks and Schools"
 permalink: /talks/
 author_profile: true
 ---
@@ -21,6 +21,13 @@ author_profile: true
 <h2 class="page__title">Posters</h2>
 <ol>
     {% for post in site.posters reversed %}
+    <li>{% include archive-single-talk.html %}</li>
+    {% endfor %}
+</ol>
+
+<h2 class="page__title">Schools and Workshops</h2>
+<ol>
+    {% for post in site.schools reversed %}
     <li>{% include archive-single-talk.html %}</li>
     {% endfor %}
 </ol>
