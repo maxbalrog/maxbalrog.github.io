@@ -1,7 +1,7 @@
 ---
 title: "Proof-of-principle experiment for the dark-field detection concept for measuring vacuum birefringence"
 collection: publications
-permalink: /publication/3-2025-darkfield
+permalink: /publication/2025-darkfield
 excerpt: ''
 venue: paper
 year: 2025

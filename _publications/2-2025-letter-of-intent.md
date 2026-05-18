@@ -1,7 +1,7 @@
 ---
 title: "Towards a vacuum birefringence experiment at the Helmholtz International Beamline for Extreme Fields (Letter of Intent of the BIREF@ HIBEF Collaboration)"
 collection: publications
-permalink: /publication/2-2025-letter-of-intent
+permalink: /publication/2025-letter-of-intent
 excerpt: ''
 venue: paper
 year: 2025

@@ -1,7 +1,7 @@
 ---
 title: "Numerical optimization of quantum vacuum signals"
 collection: publications
-permalink: /publication/4-2024-bayesian-optimization-quantum-vacuum
+permalink: /publication/2024-bayesian-optimization-quantum-vacuum
 excerpt: ''
 venue: paper
 year: 2024

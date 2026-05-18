@@ -1,7 +1,7 @@
 ---
 title: "Back-reflection in dipole fields and beyond"
 collection: publications
-permalink: /publication/1-2025-back-reflection-dipole
+permalink: /publication/2025-back-reflection-dipole
 excerpt: ''
 venue: paper
 year: 2025

@@ -1,7 +1,7 @@
 ---
 title: "Towards high photon density for Compton scattering by spectral chirp"
 collection: publications
-permalink: /publication/5-2022-spectral-chirp
+permalink: /publication/2022-spectral-chirp
 venue: paper
 year: 2022
 journal: 'Physical Review A'

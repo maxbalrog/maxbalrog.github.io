@@ -1,7 +1,7 @@
 ---
 title: "Signatures of the carrier envelope phase in nonlinear thomson scattering"
 collection: publications
-permalink: /publication/6-2021-signatures-of-envelope-phase
+permalink: /publication/2021-signatures-of-envelope-phase
 venue: paper
 year: 2021
 journal: 'Crystals'
