@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Felipe Salgado"
-description              : &description "personal description"
-url                      : https://felipecsalgado.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Maksim Valialshchikov"
+description              : &description "PhD at Helmholtz Institute Jena"
+url                      : https://maxbalrog.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "felipecsalgado/felipecsalgado.github.io"
+repository               : "maxbalrog.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Felipe Salgado"
-  avatar           : "profile_Salgado.jpeg"
-  bio              : "PostDoc at FSU Jena and Helmholtz-Institute Jena"
-  location         :
-  employer         :
+  name             : "Maksim Valialshchikov"
+  avatar           : "profile.jpg"
+  bio              : "Exploring physics and programming while doing my PhD"
+  location         : "Germany"
+  employer         : "Helmholtz Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.de/citations?user=XFDI87QAAAAJ&hl=en"
-  email            : felipe.salgado at uni-jena dot com
-  researchgate     : "https://www.researchgate.net/profile/Felipe-Salgado-6"
+  googlescholar    : "https://scholar.google.com/citations?user=sFDKc9AAAAAJ&hl=en"
+  email            : maksim.valialshchikov at uni-jena dot com
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "felipecsalgado"
+  github           : "maxbalrog"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "felipe-salgado-82a40a34"
-  orcid            : "https://orcid.org/0000-0002-9109-9370"
+  linkedin         : "maksim-valialshchikov-743788193/"
+  orcid            : "http://orcid.org/0000-0001-5442-7331"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -177,9 +177,6 @@ kramdown:
 # Collections
 collections:
   publications:
-    output: true
-    permalink: /:collection/:path/
-  patents:
     output: true
     permalink: /:collection/:path/
   talks:
