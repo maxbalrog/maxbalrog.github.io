@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-A complete list of my publications, including preprint papers, can be found on [Google Scholar](https://scholar.google.de/citations?user=XFDI87QAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Felipe-Salgado-6).
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 {% include base_path %}
 
@@ -14,14 +16,5 @@ A complete list of my publications, including preprint papers, can be found on [
     {% assign sorted_publications = site.publications | sort: "path" %}
     {% for post in sorted_publications %}
     <li>{% include archive-single-publication.html %}</li>
-    {% endfor %}
-</ol>
-
-<br>
-<hr>
-<h2 class="page__title">Patents</h2>
-<ol>
-    {% for post in site.patents reversed %}
-    <li>{% include archive-single-patent.html %}</li>
     {% endfor %}
 </ol>
