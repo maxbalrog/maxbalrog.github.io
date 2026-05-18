@@ -185,6 +185,9 @@ collections:
   posters:
     output: true
     permalink: /:collection/:path/
+  schools:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
