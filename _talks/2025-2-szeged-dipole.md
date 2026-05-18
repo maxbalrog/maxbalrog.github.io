@@ -8,5 +8,3 @@ year: 2025
 month: July
 location: "Szeged, Hundary"
 ---
-
-Talk at LPHYS 2025.

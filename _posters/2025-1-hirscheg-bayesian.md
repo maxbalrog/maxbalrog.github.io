@@ -8,5 +8,3 @@ year: 2025
 month: January
 location: "Hirschegg, Austria"
 ---
-
-Poster at "PHEDM-Hirschegg Workshop 2025. 45rd Workshop on High-Energy-Density Physics with laser and Ion beams".
