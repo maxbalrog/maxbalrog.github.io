@@ -1,7 +1,7 @@
 ---
 title: "Narrow bandwidth gamma comb from nonlinear Compton scattering using the polarization gating technique"
 collection: publications
-permalink: /publication/2021-polarization-gating
+permalink: /publication/9-2021-polarization-gating
 venue: 'paper'
 year: 2021
 journal: 'Phys. Rev. Lett.'

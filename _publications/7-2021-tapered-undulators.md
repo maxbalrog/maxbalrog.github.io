@@ -1,7 +1,7 @@
 ---
 title: "On the usage of tapered undulators in the measurement of interference in the intensity-dependent electron mass shift"
 collection: publications
-permalink: /publication/2021-tapered-undulators
+permalink: /publication/7-2021-tapered-undulators
 venue: paper
 year: 2021
 journal: 'Crystals'

@@ -1,7 +1,7 @@
 ---
 title: "Polarisation gating technique in nonlinear Compton scattering: effect of radiation friction and electron beam nonideality"
 collection: publications
-permalink: /publication/2021-polarization-gating-details
+permalink: /publication/8-2021-polarization-gating-details
 venue: 'paper'
 year: 2021
 journal: 'Quantum Electronics'
