@@ -17,7 +17,7 @@ I have experience in:
 * Conducting data analysis in Python and Mathematica
 * Working with Machine Learning algorithms, Neural Networks, Bayesian inference and Bayesian optimization
 * Performing analytical calculations in the area of classical and quantum electrodynamics
-* Teaching physics and programming concepts
+* Teaching physics and programming concepts <br>
 And more 👀👀👀
 
 If you would like to learn more about my experiences and projects, feel free to send me a message or visit my GitHub repositories.
