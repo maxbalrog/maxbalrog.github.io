@@ -4,7 +4,7 @@ excerpt: "The electron's trajectory is calculated via classical equations of mot
 collection: programming
 permalink: /programming/compton-classic
 languages: "Python"
-thumbnail: /images/A_back_spectr.png
+thumbnail: /images/A_back_spect.png
 link: "https://github.com/maxbalrog/compton-classic"
 repo: "github"
 ---

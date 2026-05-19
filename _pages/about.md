@@ -7,48 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👋 My name is Felipe Salgado, a physicist with a background in electrical engineering.
+Greetings! 🤗 My name is Maksim Valialshchikov, a physicist with a background in computer science.
 
-I have completed my Masters in Photonics and a PhD in physics. I am passionate about developing new hardware and software for complex systems. Hence, I have conducted numerous research experiments that required extensive teamwork and thinking outside the box.
+I have completed my Bachelors in theoretical physics and Masters in information science. Currently I work on my PhD in physics. I really enjoy programming, puzzles and sustainable packaging. I try to make my scienfic work open source for public access. 
 
 I have experience in:
-* Designing and performing experiments at high-power laser facilities (PW-class) around the globe such as JETi200 (Jena, Germany), CALA (Munich, Germany), FACET-II at the SLAC National Accelerator Laboratory (USA), and Rutherford Appleton Laboratory RAL (UK).
-* Conducting data analysis and image processing using Python and Mathematica, and performing numerical simulations using C/C++.
-* Developing software (C/C++/C#/LabView) for controlling devices using different communication protocols, such as motor and trigger controllers, and cameras.
-* Designing optical components, complex systems, and detectors using Autodesk Inventor, for example.
-* Creating electronic PCBs to integrate systems.
-And much more!
+* Writing simulation packages for various physical processes (light-by-light scattering, Thomson scattering, partial differential equation solvers, Monte Carlo samplers and more)
+* Working with high performance computing (on Slurm clusters, parallel computations, GPU computations)
+* Conducting data analysis in Python and Mathematica
+* Working with Machine Learning algorithms, Neural Networks, Bayesian inference and Bayesian optimization
+* Performing analytical calculations in the area of classical and quantum electrodynamics
+* Teaching physics and programming concepts
+And more 👀👀👀
 
 If you would like to learn more about my experiences and projects, feel free to send me a message or visit my GitHub repositories.
 
-I have also published scientific papers and hold patents from the work and research I have conducted.
-
-<!--**Get in Touch**  
-[Linkedin](https://www.linkedin.com/in/felipe-salgado-82a40a34/)  
-[Github](https://github.com/felipecsalgado) where you can check my latest public available codes-->
-
 <h2> Publications </h2>
 
-A complete list of my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=XFDI87QAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Felipe-Salgado-6).
+A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=sFDKc9AAAAAJ&hl=en).
 
-My PhD thesis is also accessible to the public through this [link](https://www.db-thueringen.de/receive/dbt_mods_00055695).
+My PhD thesis is currently in progress...
 
-<h2> Research </h2>
-My field of research is strong-field quantum electrodynamics (QED), and laser-matter interaction with main focus on laser wakefield acceleration (LWFA).
-<style>
-table {
-    border-collapse: collapse;
-    table-layout: fixed;
-    width: 100%;
-}ƒ
-table, th, td {
-   border: 1px solid white;
-}
-blockquote {
-    border-left: solid white;
-    padding-left: 0px;
-}
-</style>
-
-|![SFQED](../images/sfqed-process.png){: .align-center width="300px"}|![Detector development](../images/CALA_detector_setup_clip.png){: .align-center width="300px"}|![LWFA](../images/LWFA_sims.png){: .align-center width="300px"}|
-|Strong-Field QED<br>**Vacuum Pair-Creation, Compton Scattering**|Particle Detector Development<br>**Single-Particle Detectors for SF-QED Experiments**<br>|Light-Matter Interaction with focus on<br>**Laser-Wakefield Acceleration (LWFA)<br>**

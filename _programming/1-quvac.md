@@ -4,7 +4,7 @@ excerpt: "Quvac (from quantum vacuum, pronounced as qu-ack 🐸) allows to calcu
 collection: programming
 permalink: /programming/quvac
 languages: "Python"
-thumbnail: /images/logo.png
+thumbnail: /images/logo.jpg
 link: "https://github.com/maxbalrog/quvac"
 repo: "github"
 ---
