@@ -4,7 +4,7 @@ excerpt: "<b>Numerical study of light-by-light scattering scenarios</b><br> Stro
 collection: research
 permalink: /research/Topic1
 thumbnail: /images/lbl_diagram.png
-objective: "To investigate potentially promising collision configurations that maximize the discernible signal."
+objective: "Investigate potentially promising collision configurations that maximize the discernible signal."
 works: '<ol class="part1" class="archive__item-research-excerpt">
 	<li><b>M. Valialshchikov</b>, F. Karbstein, D. Seipt and M. Zepf, “Back-reflection in dipole fields and beyond”, <i>Phys. Rev. D</i> <b>112</b>, 2025 <br> 
 	<a href="https://doi.org/10.1103/129l-c43n">DOI:10.1103/129l-c43n</a> </li>
