@@ -8,4 +8,3 @@ year: 2021
 month: July
 location: "Sochi, Russia"
 ---
-

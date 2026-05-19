@@ -83,8 +83,8 @@ author:
   name             : "Maksim Valialshchikov"
   avatar           : "profile.jpg"
   bio              : "Exploring physics and programming while doing my PhD"
-  location         : "Germany"
-  employer         : "Helmholtz Institute"
+  location         : "Helmholtz Institute, Germany"
+  employer         : #"Helmholtz Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sFDKc9AAAAAJ&hl=en"
   email            : maksim.valialshchikov at uni-jena dot com
@@ -185,6 +185,9 @@ collections:
   posters:
     output: true
     permalink: /:collection/:path/
+  schools:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
@@ -217,15 +220,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _patents
-  - scope:
-      path: ""
-      type: patents
     values:
       layout: single
       author_profile: true

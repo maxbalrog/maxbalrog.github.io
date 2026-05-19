@@ -8,5 +8,3 @@ year: 2025
 month: September
 location: "Dolní Břežany, Czech Republic"
 ---
-
-Talk at ExHILP 2025.

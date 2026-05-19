@@ -8,5 +8,3 @@ year: 2020
 month: November
 location: "Moscow, Russia"
 ---
-
-Poster for "Particle Physics and Cosmology 2020. IX Interinstitutional Youth Conference".

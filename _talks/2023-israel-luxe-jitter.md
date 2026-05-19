@@ -8,5 +8,3 @@ year: 2023
 month: September
 location: "Rehovot, Israel"
 ---
-
-Talk at "SRitp Workshop: LUXE physics and SFQED".

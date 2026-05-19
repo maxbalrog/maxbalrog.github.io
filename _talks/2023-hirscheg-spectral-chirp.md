@@ -8,5 +8,3 @@ year: 2023
 month: January
 location: "Hirschegg, Austria"
 ---
-
-Talk at "PHEDM-Hirschegg Workshop 2023. 43rd Workshop on High-Energy-Density Physics with laser and Ion beams".
