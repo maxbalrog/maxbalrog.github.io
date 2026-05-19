@@ -8,7 +8,7 @@ journal: 'Physical Review A'
 volume: 106.3
 page: L031501
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.L031501'
-authors: '<b>M. A. Valialshchikov</b>, V. Yu. Kharin, and S. G. Rykovanov'
+authors: '<b>M. A. Valialshchikov</b>, D. Seipt, V. Yu. Kharin, and S. G. Rykovanov'
 doi: 'https://doi.org/10.1103/PhysRevA.106.L031501'
 ---
 
