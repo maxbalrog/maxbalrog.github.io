@@ -10,8 +10,10 @@ works: '<ol class="part1" class="archive__item-research-excerpt">
 	Initial project steps are available on <a href="https://github.com/maxbalrog/laser-jitter">Github</a> </li>
 
 	<li><b>M. Valialshchikov</b>, D. Seipt, “Neural network interpolator for particle transition rates in PIC codes”: PIC codes with QED have interpolation tables for the rates of QED processes (photon emission and Breit-Wheeler pair creation). Sampling from these tables takes a lot of time. Replacing all tables with basic Neural Network surrogate model might speed up the simulations, 2022 <br>
+	</li>
 	
 	<li><b>M. Valialshchikov</b>, S. Rykovanov, “Physics Informed Neural Networks for Schroedinger and Dirac equation”: PINNs represent a promising way towards finding a solution for nonlinear PDEs, 2022 <br>
+	</li>
 </ol>'
 ---
 
