@@ -1,5 +1,5 @@
 ---
-title: "Signatures of the carrier envelope phase in nonlinear thomson scattering"
+title: "Signatures of the carrier envelope phase in nonlinear Thomson scattering"
 collection: publications
 permalink: /publication/2021-signatures-of-envelope-phase
 venue: paper

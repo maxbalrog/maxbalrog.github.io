@@ -1,10 +1,10 @@
 ---
 title: "Quantum vacuum"
-excerpt: "<b>Numerical study of light-by-light scattering scenarios</b> Strong-field QED predicts that in the presence of strong electromagnetic fields the quantum vacuum starts to behave like a medium and affects light propagation. Due to this nonlinear interaction, the incoming photon might change its direction, energy and polarization. For currently achievable laser intensities the effect is really small and presents a huge experimental challenge. Therefore, study of realistic and promising field configurations maximizing the potentially detectable signal is of particular interest."
+excerpt: "<b>Numerical study of light-by-light scattering scenarios</b><br> Strong-field QED predicts that in the presence of strong electromagnetic fields the quantum vacuum starts to behave like a medium and affects light propagation. Due to this nonlinear interaction, the incoming photon might change its direction, energy and polarization. For currently achievable laser intensities the effect is really small and presents a huge experimental challenge."
 collection: research
 permalink: /research/Topic1
 thumbnail: /images/lbl_diagram.png
-objective: "To investigate potentially promising collision configurations that maximize the discernible signal."
+objective: "Investigate potentially promising collision configurations that maximize the discernible signal."
 works: '<ol class="part1" class="archive__item-research-excerpt">
 	<li><b>M. Valialshchikov</b>, F. Karbstein, D. Seipt and M. Zepf, “Back-reflection in dipole fields and beyond”, <i>Phys. Rev. D</i> <b>112</b>, 2025 <br> 
 	<a href="https://doi.org/10.1103/129l-c43n">DOI:10.1103/129l-c43n</a> </li>
